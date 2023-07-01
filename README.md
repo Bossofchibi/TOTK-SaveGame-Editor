@@ -1,5 +1,5 @@
 # The Legend of Zelda: Tears of the Kingdom | Savegame Editor
-## Note: This isn't the original version. If you want the original, go ###[Here](https://github.com/lchmagKekse/TOTK-SaveGame-Editor)
+## Note: This isn't the original version. If you want the original, go [Here](https://github.com/lchmagKekse/TOTK-SaveGame-Editor)
 
 ### [Download here](https://github.com/lchmagKekse/TOTK-SaveGame-Editor/releases/latest)
 
